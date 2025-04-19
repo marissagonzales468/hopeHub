@@ -1,3 +1,2 @@
-# Hope Hub
-A multi-page wellness platform with dark mode and translation support.
-# hopeHub
+# HopeHub
+This is the full plug-and-play prototype for HopeHub.
